@@ -62,3 +62,26 @@ nav ul {
     font-size: 400%;
 }
 
+.PreviousProject{
+    border-radius: 2px;
+    border-style: solid;
+    padding: 1rem 2rem;
+    border-color: black;
+}
+
+.mb-1 {
+    margin-bottom: 1rem;
+}
+
+.img {
+    width: 250px;
+    height: auto;
+}
+
+.Project1 {
+    display: grid;
+    place-content: center;
+    min-height: 40vh;
+    text-align: center;
+}
+
