@@ -40,3 +40,25 @@ nav ul {
  color: white;
  font-size: 170%;
 }
+
+.who{
+    background-color:rgb(202, 235, 235);
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;
+}
+
+.Me{
+   margin: 170px;
+
+}
+
+.AboutMe{
+    text-align: center;
+}
+
+.AboutMe h1{
+    font-size: 400%;
+}
+
