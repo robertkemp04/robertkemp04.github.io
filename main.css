@@ -73,11 +73,6 @@ nav ul {
     margin-bottom: 1rem;
 }
 
-.img {
-    width: 250px;
-    height: auto;
-}
-
 .Project1 {
     display: grid;
     place-content: center;
