@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    padding: 1rem;
+    background-color: lightblue;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 5rem;
+}
+
+.hero{
+    background: url(./images/Header\ Image.jpg) no-repeat fixed;
+    min-height: 20rem;
+    color: white;
+}
+
+.heroBox{
+    width: 200px;
+    height: 200px;
+    border: 1px white;
+    color:black;
+    padding: 10 px;
+    margin: 10 px;
+    
+}
