@@ -69,7 +69,7 @@ nav ul {
     border-color: black;
 }
 
-.mb-1 {
+.p-1 {
     margin-bottom: 1rem;
 }
 
@@ -84,4 +84,16 @@ nav ul {
     min-height: 40vh;
     text-align: center;
 }
+
+.p-2 {
+    margin-bottom: 1rem;
+}
+
+.Project2 {
+    display: grid;
+    place-content: center;
+    min-height: 40vh;
+    text-align: center;
+}
+
 
