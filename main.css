@@ -62,11 +62,16 @@ nav ul {
     font-size: 400%;
 }
 
-.PreviousProject{
+.PreviousProjects{
     border-radius: 4px;
     border-style: solid;
     padding: 1rem 2rem;
     border-color: black;
+}
+
+.img{
+    width: 400px;
+    height: auto; 
 }
 
 .p-1 {
